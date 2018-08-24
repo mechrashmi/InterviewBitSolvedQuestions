@@ -1,0 +1,3 @@
+2018-08-21 19:45:04 ERROR  : ERROR:  column "sent_location" does not exist
+LINE 3: ...r, client_hostname, client_port, state || ' (' || sent_locat...
+                                                             ^
